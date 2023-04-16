@@ -15,5 +15,4 @@ public class FirstTest {
         WebElement searchBar = driver.findElement(By.name("q"));
         searchBar.sendKeys("bicycle");
     }
-
 }

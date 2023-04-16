@@ -7,7 +7,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 import java.util.List;
-
 import static java.lang.Thread.sleep;
 import static org.junit.Assert.*;
 

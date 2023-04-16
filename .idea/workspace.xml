@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e2522c-6bd9-405e-9bd2-391a6410c422" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Cats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Registrations.java" afterDir="false" />
-    </list>
+    <list default="true" id="b3e2522c-6bd9-405e-9bd2-391a6410c422" name="Changes" comment="HW202304162_" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HW202304162" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -108,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Registrations.invalidedEmail" />
-        <item itemvalue="JUnit.Registrations.invalideEmail" />
         <item itemvalue="JUnit.Registrations.withoutLastName" />
-        <item itemvalue="JUnit.Registrations" />
         <item itemvalue="JUnit.Registrations.withoutFirstName" />
+        <item itemvalue="JUnit.Registrations.invalideEmail" />
+        <item itemvalue="JUnit.Registrations.invalidedEmail" />
+        <item itemvalue="JUnit.Registrations" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +120,34 @@
       <option name="presentableId" value="Default" />
       <updated>1680597323419</updated>
     </task>
+    <task id="LOCAL-00001" summary="HW20230416">
+      <created>1681672979196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681672979196</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HW202304162">
+      <created>1681673155128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681673155128</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HW202304162_">
+      <created>1681673539604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681673539604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW20230416" />
+    <MESSAGE value="HW202304162" />
+    <MESSAGE value="HW202304162_" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW202304162_" />
   </component>
 </project>
